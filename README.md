@@ -1,12 +1,5 @@
 🌼 🌸 🌸 Bonjour à toustes 🌸 🌸 🌼
 
-
-💻 Je suis actuellement à la recherche d’une alternance en développement web
-
-🗓️ Durée : 12 mois avec un rythme 4 jours / 1 jour
-
-🌐 Je suis intéressée par des opportunités en développement front-end, back-end et full-stack
-
 🎓 En formation chez Ada Tech School, une école inclusive et féministe spécialisée dans le développement web et la conception d'applications, je suis déterminée à obtenir mon Diplôme RNCP de niveau VI (Bac +3)
 
 
